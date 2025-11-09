@@ -69,4 +69,7 @@
     python run.py --task "[Your Description]" --name "[Project Name]" --model DEEPSEEK
     ```
 
-    
+
+## 结果展示
+
+![test](./test.gif)
